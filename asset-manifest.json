@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/garrettcordportfolio/static/css/main.6011a159.css",
-    "main.js": "/garrettcordportfolio/static/js/main.8cb1636c.js",
+    "main.css": "/garrettcordportfolio/static/css/main.8c7e7835.css",
+    "main.js": "/garrettcordportfolio/static/js/main.df17a30f.js",
     "static/js/787.946716bb.chunk.js": "/garrettcordportfolio/static/js/787.946716bb.chunk.js",
     "static/media/gart.jpg": "/garrettcordportfolio/static/media/gart.b183af6cdfe27a108a98.jpg",
     "static/media/logo.svg": "/garrettcordportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/garrettcordportfolio/index.html",
-    "main.6011a159.css.map": "/garrettcordportfolio/static/css/main.6011a159.css.map",
-    "main.8cb1636c.js.map": "/garrettcordportfolio/static/js/main.8cb1636c.js.map",
+    "main.8c7e7835.css.map": "/garrettcordportfolio/static/css/main.8c7e7835.css.map",
+    "main.df17a30f.js.map": "/garrettcordportfolio/static/js/main.df17a30f.js.map",
     "787.946716bb.chunk.js.map": "/garrettcordportfolio/static/js/787.946716bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6011a159.css",
-    "static/js/main.8cb1636c.js"
+    "static/css/main.8c7e7835.css",
+    "static/js/main.df17a30f.js"
   ]
 }
